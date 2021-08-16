@@ -6,4 +6,4 @@ Its goal is to showcase how to perform data exploration using SQL on a database 
 
 The skills used in this project include: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, and Creating Views.
 
-In addition, in order to import the dataset into a Microsoft SQL Server, we had to perform a series of extra queries, not mentioned in the video, because we could only use a .csv file. The queries are in the file data_preparation.sql.
+In addition, in order to import the dataset into a Microsoft SQL Server, we had to perform a series of extra queries, not mentioned in the video, because we could only use a .csv file. The queries are in the file [data_preparation.sql](https://github.com/clayamakita/project_1_sql_data_exploration/blob/main/data_preparation.sql).

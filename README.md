@@ -1,6 +1,6 @@
 # Portfolio Project 1 - SQL Data Exploration
 
-This project was based and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM).
+This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM).
 
 Its goal is to showcase how to perform data exploration using SQL on a database with COVID-19 cases, deaths and vaccination worlwide and by country. The dataset was downloaded from [Our World in Data](https://ourworldindata.org/covid-deaths) on August 16, 2021, and contains data until August 15, 2021. The notebook with the analysis and thought process are on a file called [Portfolio Project 1 - SQL Data Exploration.ipynb](https://github.com/clayamakita/project_1_sql_data_exploration/blob/main/Portfolio%20Project%201%20-%20SQL%20Data%20Exploration.ipynb).
 

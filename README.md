@@ -1,4 +1,4 @@
-# Portfolio Project 1 - SQL Data Exploration
+# Portfolio Project - SQL Data Exploration
 
 This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM).
 
